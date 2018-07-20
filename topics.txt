@@ -1,1 +1,1 @@
-Exploring Word2Vec for creating embeddings
+Exploring Word2Vec for creating embeddings, creating own embeddings
