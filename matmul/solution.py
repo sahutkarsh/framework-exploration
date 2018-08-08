@@ -1,7 +1,5 @@
 input_file = open('input.txt','r')
 input_lines = input_file.readlines()
-input_file.close()input_file = open('input.txt','r')
-input_lines = input_file.readlines()
 input_file.close()
 
 lines = []
@@ -63,6 +61,7 @@ for test_case in test_cases:
 
 output_file = open('output.txt', 'w')
 
+output = ''
 for product in products:
     for row in product:
         row_str = [str(item) for item in row]
