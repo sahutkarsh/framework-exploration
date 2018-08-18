@@ -32,32 +32,6 @@ def parse_case(test_case):
         matrix.insert(row_index, row)
     return [m,n,matrix]
 
-def pivoting(matrix, m, step_index):
-    step_element = matrix[step_index][step_index]
-    step_column = [row[step_index] for row in matrix]
-    step_column_required = step_column[step_index:]
-    
-    max_element = max(step_column_required, key=abs)
-    swap = False
-    if (abs(step_element) >= max_element):
-        return [matrix, swap]
-    swap = True
-    
-    max_value = max(step_column_required)
-    min_value = min(step_column_required)
-    if abs(max_value) > abs(min_value):
-        max_abs_value = max_value
-    else:
-        max_abs_value = min_value
-    
-    max_index = step_column.index(max_abs_value)
-    
-    temp_row = matrix[step_index]
-    matrix[step_index] = matrix[max_index]
-    matrix[max_index] = temp_row
-    
-    return [matrix, swap]
-
 def zero_transform(matrix, m, step_index):
     step_element = matrix[step_index][step_index]
     step_row = matrix[step_index]
@@ -74,19 +48,14 @@ def gaussian_determinant(test_case):
     if (m!=n):
         return 'Invalid Shape. Square matrices only.'
     
-    swap_coefficient = 1
     for step_index in range(m-1):
-        matrix, swap = pivoting(matrix, m, step_index)
         matrix = zero_transform(matrix, m, step_index)
-        if (swap):
-            swap_coefficient *= -1
     
     diagnols = []
     determinant = 1
     for index in range(m):
         diagnols.append(matrix[index][index])
         determinant *= matrix[index][index]
-    determinant *= swap_coefficient
     determinant = round(determinant,2)
     return determinant
 
