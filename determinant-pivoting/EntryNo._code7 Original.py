@@ -28,7 +28,7 @@ def parse_case(test_case):
         A.insert(row_index, row)
     B = list(map(float, test_case[m+1].split()))
     return [m,A,B]
-	
+
 def doolittle_algorithm(A):
     n = len(A)
     lower = [[0] * n for index in range(n)]
@@ -73,55 +73,9 @@ def UX_Y(upper,Y):
         X[n-i-1] = (Y[n-i-1] - summation)/upper[n-i-1][n-i-1]
     return X
 	
-def zero_transform(matrix, m, step_index):
-    step_element = matrix[step_index][step_index]
-    step_row = matrix[step_index]
-    for row_index in range(step_index+1, m):
-        row = matrix[row_index]
-        factor = row[step_index]/step_element
-        transformed_row = [item * factor for item in step_row]
-        matrix[row_index] = [x-y for x,y in zip(row,transformed_row)]
-        matrix[row_index][step_index] = 0
-    return matrix
-	
-def gaussian_determinant(matrix, constants):
-    m = len(matrix)
-    for step_index in range(m-1):
-        matrix = zero_transform(matrix, m, step_index)
-    
-    diagnols = []
-    determinant = 1
-    for index in range(m):
-        diagnols.append(matrix[index][index])
-        determinant *= matrix[index][index]
-    determinant = int(determinant*(10**2))/(10**2)
-    return determinant
-	
-def singularity_check(A,B):
-    matrix = list(A)
-    constants = list(B)
-    determinant = gaussian_determinant(matrix, constants)
-    if (determinant == 0):
-        return 0
-    return 1
-	
-def check_zero_diagnol(matrix):
-    m = len(matrix)
-    for index in range(m):
-        item = matrix[index][index]
-        if (item == 0):
-            return True
-    return False
-	
 def solve_equations(test_case):
     m, A, B = parse_case(test_case)
-    non_singularity = singularity_check(A,B)
-    if (non_singularity == 0 or non_singularity == -1):
-        return [non_singularity,[],[]]
     lower, upper = doolittle_algorithm(A)
-    zero_diagnol = check_zero_diagnol(upper)
-    if (zero_diagnol):
-        return 0
     Y = LY_B(lower,B)
     X = UX_Y(upper,Y)
     return [X, upper, lower]
@@ -141,14 +95,11 @@ def array_to_string(array):
 output = ''
 for result in results:
     solution, upper, lower = result
-    if(solution == 0 or solution == -1):
-        output += str(solution) + '\n'
-    else: 
-        output += array_to_string(solution) + '\n'
-        for row in upper:
-            output += array_to_string(row) + '\n'
-        for row in lower:
-            output += array_to_string(row) + '\n'
+    output += array_to_string(solution) + '\n'
+    for row in upper:
+        output += array_to_string(row) + '\n'
+    for row in lower:
+        output += array_to_string(row) + '\n'
     output += '\n'
 output = output.strip()
 
