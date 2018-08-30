@@ -73,22 +73,25 @@ def UX_Y(upper,Y):
         X[n-i-1] = (Y[n-i-1] - summation)/upper[n-i-1][n-i-1]
     return X
 	
-def zero_transform(matrix, m, step_index):
+def zero_transform(matrix, constants, m, step_index):
     step_element = matrix[step_index][step_index]
     step_row = matrix[step_index]
+    step_row_sol = constants[step_index]
     for row_index in range(step_index+1, m):
         row = matrix[row_index]
+        row_sol = constants[row_index]
         factor = row[step_index]/step_element
         transformed_row = [item * factor for item in step_row]
+        transformed_row_sol = step_row_sol * factor
         matrix[row_index] = [x-y for x,y in zip(row,transformed_row)]
+        constants[row_index] = row_sol - transformed_row_sol
         matrix[row_index][step_index] = 0
-    return matrix
+    return [matrix, constants]
 	
 def gaussian_determinant(matrix, constants):
     m = len(matrix)
     for step_index in range(m-1):
-        matrix = zero_transform(matrix, m, step_index)
-    
+        matrix, constants = zero_transform(matrix, constants, m, step_index)
     diagnols = []
     determinant = 1
     for index in range(m):
@@ -97,14 +100,6 @@ def gaussian_determinant(matrix, constants):
     determinant = int(determinant*(10**2))/(10**2)
     return determinant
 	
-def singularity_check(A,B):
-    matrix = list(A)
-    constants = list(B)
-    determinant = gaussian_determinant(matrix, constants)
-    if (determinant == 0):
-        return 0
-    return 1
-	
 def check_zero_diagnol(matrix):
     m = len(matrix)
     for index in range(m):
@@ -112,6 +107,21 @@ def check_zero_diagnol(matrix):
         if (item == 0):
             return True
     return False
+	
+def singularity_check(A,B):
+    matrix = list(A)
+    constants = list(B)
+    m = len(matrix)
+    determinant = gaussian_determinant(matrix, constants)
+    if (determinant == 0):
+        if (check_zero_diagnol(matrix)):
+            if(matrix[m-1][m-1] == 0 and constants[m-1] == 0):
+                return 0
+            else:
+                return -1
+        else:
+            return 0
+    return 1
 	
 def solve_equations(test_case):
     m, A, B = parse_case(test_case)
