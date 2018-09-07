@@ -1,0 +1,1001 @@
+Incident Type,Primary Cause,Cause Class,Cause Type,Working Condition,Machine Condition,SOP Requirement,SOP Availability,SOP Adequacy,SOP Compliance
+Near Miss,Process Incidents,Process,Unsafe Condition,Group Working,Not Applicable,SOP Required,SOP Not Available,Not Known,SOP Followed
+Property Damage,Derailment,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Injury,Energy Isolation,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Required,Not Known,SOP Not Adequate,Not Known
+Injury,Equipment Machinery Damage,Process,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Required,SOP Not Available,Not Known,Not Known
+Near Miss,Derailment,Process,Unsafe Condition,Single Working,Not Applicable,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Near Miss,Lifting Tool Tackles,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Required,Not Known,Not Known,SOP Followed
+Injury,Slip/Trip/Fall,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Available,Not Known,SOP Followed
+Injury,Structural Integrity,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Energy Isolation,Process,Unsafe Act,Group Working,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Derailment,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,SOP Adequate,SOP Followed
+Near Miss,Road Incident,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Near Miss,Lifting Tool Tackles,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,Not Known,Not Known,Not Known,Not Known
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,Not Known,Not Known,Not Known
+Property Damage,Road Incident,Process,Unsafe Act,Single Working,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,Not Known
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Condition,Group Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,Not Known
+Injury,Material Handling,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Near Miss,Lifting Tool Tackles,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Injury,Energy Isolation,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Working,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Not Available,Not Known,Not Known
+Injury,Slip/Trip/Fall,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Injury,Working at Height,Behaviour,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Dashing/Collision,Process,Unsafe Condition,Single Working,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Condition,Single Working,M/C Working,Not Known,Not Known,SOP Not Adequate,Not Known
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Not Required,Not Known,SOP Adequate,Not Known
+Near Miss,Working at Height,Process,Unsafe Act by Other,Single Working,M/C Working,Not Known,SOP Available,SOP Adequate,SOP Followed
+Near Miss,Structural Integrity,Behaviour,Unsafe Act,Group Working,Not Applicable,Not Known,Not Known,SOP Adequate,Not Known
+Property Damage,Energy Isolation,Process,Unsafe Act,Group Working,M/C Working,SOP Required,SOP Not Available,SOP Adequate,SOP Followed
+Near Miss,Energy Isolation,Behaviour,Unsafe Condition,Single Working,M/C Idle,Not Known,Not Known,Not Known,SOP Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,Not Known
+Near Miss,Occupational Illness,Process,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,Not Known,Not Known,SOP Not Followed
+Injury,Process Incidents,Process,Unsafe Condition,Not a Working Place,M/C Working,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Energy Isolation,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Near Miss,Material Handling,Behaviour,Unsafe Act by Other,Group Working,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Act,Group Working,Not Applicable,Not Known,SOP Not Available,Not Known,Not Known
+Injury,Structural Integrity,Behaviour,Unsafe Act,Group Working,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,Not Known
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Not Required,SOP Available,Not Known,Not Known
+Injury,Lifting Tool Tackles,Process,Unsafe Act,Single Working,Not Applicable,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Injury,Material Handling,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Available,SOP Not Adequate,SOP Followed
+Near Miss,Equipment Machinery Damage,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Required,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Lifting Tool Tackles,Process,Unsafe Act,Single Working,M/C Working,Not Known,Not Known,SOP Adequate,Not Known
+Near Miss,Slip/Trip/Fall,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Material Handling,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,Not Known,Not Known,Not Known,SOP Not Followed
+Near Miss,Energy Isolation,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Lifting Tool Tackles,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Near Miss,Working at Height,Process,Unsafe Act,Single Working,M/C Working,SOP Required,Not Known,SOP Adequate,Not Known
+Property Damage,Structural Integrity,Behaviour,Unsafe Act,Not a Working Place,M/C Working,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Property Damage,Dashing/Collision,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Condition,Single Working,M/C Idle,Not Known,Not Known,Not Known,Not Known
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Act by Other,Group Working,M/C Working,SOP Not Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act,Not a Working Place,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Injury,Slip/Trip/Fall,Behaviour,Unsafe Act,Single Working,M/C Idle,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Injury,Occupational Illness,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Property Damage,Structural Integrity,Process,Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Act by Other,Single Working,M/C Idle,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act,Single Working,M/C Idle,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Followed
+Property Damage,Dashing/Collision,Behaviour,Unsafe Act,Single Working,M/C Working,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Near Miss,Slip/Trip/Fall,Process,Unsafe Act,Group Working,Not Applicable,SOP Required,SOP Not Available,Not Known,SOP Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,Not Known,SOP Followed
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,SOP Available,Not Known,SOP Followed
+Near Miss,Material Handling,Behaviour,Unsafe Condition,Group Working,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Injury,Derailment,Behaviour,Unsafe Act by Other,Single Working,M/C Working,Not Known,SOP Not Available,Not Known,Not Known
+Property Damage,Slip/Trip/Fall,Process,Unsafe Act by Other,Group Working,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Property Damage,Material Handling,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,SOP Required,Not Known,SOP Not Adequate,Not Known
+Injury,Slip/Trip/Fall,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Not Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Not Followed
+Near Miss,Process Incidents,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,Not Known,SOP Not Adequate,SOP Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Working at Height,Behaviour,Unsafe Act,Group Working,M/C Idle,SOP Not Required,Not Known,Not Known,Not Known
+Property Damage,Material Handling,Process,Unsafe Act by Other,Single Working,M/C Idle,SOP Required,Not Known,Not Known,Not Known
+Injury,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Available,Not Known,SOP Followed
+Injury,Slip/Trip/Fall,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Process Incidents,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Injury,Structural Integrity,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Required,Not Known,Not Known,Not Known
+Property Damage,Process Incidents,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Energy Isolation,Process,Unsafe Act,Group Working,M/C Idle,SOP Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Working at Height,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Injury,Energy Isolation,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,SOP Not Available,SOP Adequate,SOP Not Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Required,Not Known,SOP Not Adequate,SOP Followed
+Injury,Working at Height,Process,Unsafe Act,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act by Other,Single Working,Not Applicable,Not Known,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Required,Not Known,Not Known,Not Known
+Near Miss,Equipment Machinery Damage,Process,Unsafe Act,Group Working,M/C Working,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Injury,Process Incidents,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Not Required,Not Known,SOP Adequate,SOP Not Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act by Other,Single Working,M/C Idle,Not Known,SOP Available,Not Known,SOP Followed
+Property Damage,Working at Height,Process,Unsafe Act,Single Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,Not Known
+Injury,Structural Integrity,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Followed
+Injury,Derailment,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Road Incident,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Available,Not Known,SOP Followed
+Property Damage,Process Incidents,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Working at Height,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Equipment Machinery Damage,Process,Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Available,SOP Adequate,SOP Followed
+Injury,Working at Height,Process,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,Not Known,SOP Followed
+Property Damage,Process Incidents,Process,Unsafe Condition,Single Working,M/C Idle,Not Known,SOP Available,SOP Adequate,SOP Followed
+Injury,Road Incident,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Injury,Dashing/Collision,Process,Unsafe Act by Other,Single Working,M/C Working,Not Known,Not Known,Not Known,Not Known
+Injury,Process Incidents,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Available,Not Known,SOP Not Followed
+Near Miss,Material Handling,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,Not Known,Not Known,SOP Not Adequate,Not Known
+Near Miss,Road Incident,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Not Available,Not Known,SOP Followed
+Injury,Occupational Illness,Behaviour,Unsafe Condition,Single Working,M/C Idle,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Near Miss,Road Incident,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Working at Height,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,Not Known,SOP Available,Not Known,Not Known
+Near Miss,Equipment Machinery Damage,Process,Unsafe Act,Not a Working Place,M/C Working,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Energy Isolation,Process,Unsafe Condition,Group Working,Not Applicable,Not Known,SOP Not Available,SOP Adequate,Not Known
+Injury,Derailment,Behaviour,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Material Handling,Process,Unsafe Act,Group Working,Not Applicable,SOP Not Required,SOP Available,SOP Not Adequate,SOP Followed
+Injury,Road Incident,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Structural Integrity,Process,Unsafe Act by Other,Single Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,Not Known
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,Not Known,Not Known,SOP Not Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Property Damage,Structural Integrity,Process,Unsafe Act by Other,Group Working,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Material Handling,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Injury,Process Incidents,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Near Miss,Derailment,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Available,SOP Not Adequate,SOP Followed
+Injury,Slip/Trip/Fall,Process,Unsafe Act,Single Working,Not Applicable,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Near Miss,Lifting Tool Tackles,Behaviour,Unsafe Condition,Group Working,Not Applicable,Not Known,SOP Not Available,Not Known,Not Known
+Near Miss,Material Handling,Behaviour,Unsafe Act,Single Working,M/C Idle,Not Known,Not Known,Not Known,SOP Followed
+Near Miss,Occupational Illness,Process,Unsafe Act by Other,Single Working,M/C Idle,Not Known,SOP Not Available,Not Known,SOP Followed
+Injury,Derailment,Behaviour,Unsafe Condition,Group Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Derailment,Behaviour,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Available,Not Known,SOP Followed
+Near Miss,Working at Height,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,Not Known
+Property Damage,Material Handling,Process,Unsafe Act,Single Working,M/C Working,Not Known,Not Known,Not Known,SOP Not Followed
+Property Damage,Structural Integrity,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Not Followed
+Injury,Road Incident,Process,Unsafe Condition,Not a Working Place,M/C Idle,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Energy Isolation,Process,Unsafe Act,Single Working,M/C Working,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Material Handling,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Property Damage,Structural Integrity,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,Not Known
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Structural Integrity,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Injury,Occupational Illness,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Process Incidents,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,Not Known,Not Known,SOP Adequate,SOP Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act,Single Working,M/C Working,Not Known,Not Known,Not Known,SOP Followed
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Condition,Group Working,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Injury,Occupational Illness,Process,Unsafe Act by Other,Group Working,M/C Working,Not Known,Not Known,SOP Adequate,Not Known
+Injury,Energy Isolation,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Required,Not Known,Not Known,Not Known
+Near Miss,Energy Isolation,Behaviour,Unsafe Act by Other,Group Working,M/C Working,SOP Not Required,Not Known,Not Known,Not Known
+Property Damage,Lifting Tool Tackles,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Available,Not Known,Not Known
+Property Damage,Structural Integrity,Behaviour,Unsafe Act,Single Working,M/C Idle,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Injury,Working at Height,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,Not Known,SOP Available,Not Known,SOP Followed
+Near Miss,Dashing/Collision,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Road Incident,Process,Unsafe Act,Single Working,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Structural Integrity,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Not Required,Not Known,Not Known,Not Known
+Injury,Working at Height,Process,Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Available,Not Known,Not Known
+Injury,Road Incident,Behaviour,Unsafe Act by Other,Single Working,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Followed
+Near Miss,Derailment,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act by Other,Single Working,M/C Working,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Material Handling,Behaviour,Unsafe Condition,Group Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Near Miss,Equipment Machinery Damage,Process,Unsafe Condition,Not a Working Place,M/C Working,Not Known,Not Known,Not Known,SOP Not Followed
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Followed
+Near Miss,Slip/Trip/Fall,Process,Unsafe Condition,Group Working,M/C Idle,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Injury,Material Handling,Process,Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Available,Not Known,SOP Followed
+Near Miss,Occupational Illness,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Material Handling,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Near Miss,Energy Isolation,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Available,SOP Adequate,Not Known
+Near Miss,Material Handling,Process,Unsafe Act by Other,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Near Miss,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Material Handling,Process,Unsafe Act,Group Working,M/C Idle,Not Known,SOP Available,Not Known,SOP Followed
+Property Damage,Working at Height,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Slip/Trip/Fall,Process,Unsafe Condition,Single Working,M/C Idle,Not Known,SOP Available,Not Known,SOP Followed
+Near Miss,Derailment,Process,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Occupational Illness,Process,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Available,Not Known,SOP Followed
+Property Damage,Dashing/Collision,Behaviour,Unsafe Condition,Single Working,M/C Idle,Not Known,SOP Not Available,SOP Adequate,Not Known
+Injury,Process Incidents,Process,Unsafe Act by Other,Not a Working Place,M/C Idle,Not Known,SOP Available,Not Known,Not Known
+Near Miss,Equipment Machinery Damage,Process,Unsafe Condition,Not a Working Place,Not Applicable,Not Known,Not Known,SOP Not Adequate,Not Known
+Injury,Dashing/Collision,Process,Unsafe Act,Not a Working Place,M/C Idle,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Structural Integrity,Behaviour,Unsafe Act,Group Working,M/C Idle,Not Known,Not Known,SOP Adequate,SOP Followed
+Near Miss,Structural Integrity,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Property Damage,Road Incident,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Occupational Illness,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Dashing/Collision,Process,Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Available,Not Known,SOP Followed
+Near Miss,Road Incident,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Required,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Equipment Machinery Damage,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Energy Isolation,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,Not Known
+Near Miss,Slip/Trip/Fall,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Act,Group Working,Not Applicable,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Process Incidents,Process,Unsafe Act,Single Working,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Near Miss,Process Incidents,Process,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Injury,Working at Height,Behaviour,Unsafe Act,Single Working,M/C Working,SOP Required,Not Known,SOP Adequate,SOP Followed
+Injury,Dashing/Collision,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Act,Group Working,M/C Working,SOP Not Required,Not Known,Not Known,Not Known
+Property Damage,Working at Height,Behaviour,Unsafe Condition,Group Working,M/C Working,Not Known,SOP Not Available,Not Known,Not Known
+Injury,Energy Isolation,Behaviour,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Near Miss,Lifting Tool Tackles,Process,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,Not Known,Not Known
+Injury,Working at Height,Process,Unsafe Act,Single Working,M/C Working,SOP Not Required,Not Known,Not Known,Not Known
+Property Damage,Dashing/Collision,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Property Damage,Slip/Trip/Fall,Process,Unsafe Act by Other,Single Working,Not Applicable,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Dashing/Collision,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,Not Known,Not Known,Not Known
+Near Miss,Material Handling,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,Not Known,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Dashing/Collision,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act by Other,Group Working,M/C Working,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Road Incident,Process,Unsafe Act,Not a Working Place,M/C Working,Not Known,Not Known,SOP Adequate,SOP Followed
+Near Miss,Structural Integrity,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,Not Known,Not Known
+Near Miss,Material Handling,Process,Unsafe Condition,Group Working,Not Applicable,Not Known,SOP Available,Not Known,SOP Followed
+Near Miss,Dashing/Collision,Process,Unsafe Act,Single Working,Not Applicable,SOP Required,SOP Available,Not Known,SOP Followed
+Near Miss,Material Handling,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,Not Known,SOP Not Available,SOP Adequate,Not Known
+Near Miss,Road Incident,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Available,SOP Adequate,Not Known
+Injury,Energy Isolation,Process,Unsafe Act by Other,Group Working,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,Not Known
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Near Miss,Occupational Illness,Process,Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Not Available,SOP Adequate,Not Known
+Near Miss,Dashing/Collision,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,Not Known,Not Known,Not Known
+Near Miss,Process Incidents,Process,Unsafe Act,Not a Working Place,M/C Working,SOP Required,SOP Not Available,SOP Adequate,SOP Followed
+Injury,Occupational Illness,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Property Damage,Working at Height,Process,Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Not Available,Not Known,SOP Followed
+Injury,Working at Height,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,Not Known,Not Known,SOP Adequate,Not Known
+Property Damage,Working at Height,Process,Unsafe Act by Other,Group Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,Not Known
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Condition,Group Working,Not Applicable,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Near Miss,Occupational Illness,Process,Unsafe Act,Not a Working Place,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act by Other,Group Working,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Structural Integrity,Behaviour,Unsafe Condition,Single Working,Not Applicable,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Material Handling,Process,Unsafe Act,Group Working,Not Applicable,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Near Miss,Occupational Illness,Behaviour,Unsafe Act by Other,Single Working,M/C Idle,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Working at Height,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Equipment Machinery Damage,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Near Miss,Working at Height,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Near Miss,Process Incidents,Behaviour,Unsafe Condition,Group Working,M/C Working,Not Known,SOP Not Available,Not Known,SOP Followed
+Injury,Process Incidents,Process,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Near Miss,Dashing/Collision,Behaviour,Unsafe Condition,Group Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,Not Known
+Property Damage,Energy Isolation,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Process Incidents,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,Not Known,Not Known,SOP Not Adequate,Not Known
+Injury,Energy Isolation,Process,Unsafe Condition,Not a Working Place,M/C Working,SOP Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Energy Isolation,Behaviour,Unsafe Act,Single Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,Not Known
+Injury,Derailment,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Available,Not Known,SOP Not Followed
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Act by Other,Single Working,M/C Idle,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Injury,Material Handling,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Not Required,SOP Available,Not Known,Not Known
+Injury,Road Incident,Process,Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,Not Known,Not Known
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,Not Known
+Injury,Road Incident,Process,Unsafe Condition,Group Working,M/C Idle,Not Known,Not Known,Not Known,Not Known
+Property Damage,Structural Integrity,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Near Miss,Occupational Illness,Behaviour,Unsafe Condition,Group Working,M/C Idle,SOP Required,Not Known,SOP Not Adequate,SOP Not Followed
+Near Miss,Working at Height,Behaviour,Unsafe Act,Single Working,M/C Working,SOP Required,Not Known,SOP Adequate,SOP Followed
+Property Damage,Road Incident,Process,Unsafe Act,Group Working,M/C Idle,Not Known,SOP Available,Not Known,SOP Not Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Injury,Energy Isolation,Behaviour,Unsafe Condition,Group Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Occupational Illness,Process,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Not Required,Not Known,SOP Adequate,Not Known
+Property Damage,Derailment,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act,Single Working,M/C Idle,SOP Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Property Damage,Road Incident,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Slip/Trip/Fall,Behaviour,Unsafe Act,Single Working,M/C Working,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Derailment,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Process Incidents,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,Not Known,SOP Followed
+Injury,Structural Integrity,Process,Unsafe Act,Single Working,Not Applicable,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,SOP Required,Not Known,Not Known,Not Known
+Property Damage,Occupational Illness,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Required,Not Known,SOP Not Adequate,Not Known
+Property Damage,Energy Isolation,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Available,Not Known,Not Known
+Property Damage,Road Incident,Process,Unsafe Condition,Group Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,Not Known
+Near Miss,Derailment,Process,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Property Damage,Dashing/Collision,Behaviour,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Energy Isolation,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,Not Known,SOP Not Adequate,Not Known
+Near Miss,Slip/Trip/Fall,Process,Unsafe Act,Single Working,M/C Working,Not Known,SOP Available,Not Known,Not Known
+Injury,Derailment,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Injury,Structural Integrity,Process,Unsafe Act by Other,Single Working,Not Applicable,Not Known,SOP Available,Not Known,SOP Not Followed
+Property Damage,Energy Isolation,Behaviour,Unsafe Act by Other,Group Working,M/C Working,Not Known,Not Known,SOP Not Adequate,Not Known
+Injury,Occupational Illness,Process,Unsafe Act,Single Working,M/C Working,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Near Miss,Working at Height,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,Not Known,Not Known,Not Known
+Injury,Working at Height,Process,Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Injury,Occupational Illness,Process,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Injury,Road Incident,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Condition,Single Working,M/C Working,SOP Not Required,Not Known,Not Known,Not Known
+Injury,Working at Height,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,SOP Not Available,Not Known,Not Known
+Injury,Dashing/Collision,Process,Unsafe Condition,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,Not Known
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Material Handling,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Act by Other,Single Working,M/C Working,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Property Damage,Structural Integrity,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,Not Known,SOP Not Available,Not Known,SOP Followed
+Injury,Slip/Trip/Fall,Process,Unsafe Act,Single Working,M/C Idle,Not Known,Not Known,Not Known,Not Known
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Required,Not Known,SOP Adequate,SOP Followed
+Injury,Road Incident,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Occupational Illness,Process,Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Property Damage,Occupational Illness,Process,Unsafe Act,Single Working,M/C Working,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Dashing/Collision,Behaviour,Unsafe Act,Single Working,M/C Idle,Not Known,SOP Not Available,SOP Adequate,Not Known
+Near Miss,Dashing/Collision,Behaviour,Unsafe Condition,Group Working,Not Applicable,SOP Required,SOP Not Available,Not Known,SOP Followed
+Near Miss,Dashing/Collision,Process,Unsafe Condition,Single Working,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act,Group Working,M/C Working,SOP Not Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Injury,Slip/Trip/Fall,Process,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,Not Known,SOP Adequate,SOP Not Followed
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Not Required,SOP Available,SOP Not Adequate,SOP Followed
+Property Damage,Structural Integrity,Process,Unsafe Condition,Group Working,Not Applicable,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Injury,Structural Integrity,Behaviour,Unsafe Act,Single Working,M/C Working,Not Known,Not Known,Not Known,SOP Followed
+Injury,Slip/Trip/Fall,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,Not Known,SOP Available,Not Known,Not Known
+Near Miss,Process Incidents,Behaviour,Unsafe Condition,Group Working,Not Applicable,SOP Required,Not Known,Not Known,Not Known
+Property Damage,Slip/Trip/Fall,Process,Unsafe Act,Group Working,M/C Idle,SOP Required,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Road Incident,Behaviour,Unsafe Condition,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Adequate,Not Known
+Injury,Derailment,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act,Group Working,M/C Idle,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Process Incidents,Process,Unsafe Condition,Single Working,M/C Working,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Injury,Slip/Trip/Fall,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Available,Not Known,Not Known
+Near Miss,Derailment,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act,Group Working,Not Applicable,SOP Not Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Road Incident,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Slip/Trip/Fall,Process,Unsafe Act,Not a Working Place,M/C Working,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Slip/Trip/Fall,Process,Unsafe Act,Not a Working Place,M/C Idle,SOP Required,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Lifting Tool Tackles,Process,Unsafe Condition,Single Working,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Injury,Working at Height,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Injury,Derailment,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,Not Known,Not Known,SOP Adequate,SOP Followed
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Occupational Illness,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Injury,Derailment,Process,Unsafe Act by Other,Group Working,M/C Working,SOP Required,Not Known,SOP Adequate,SOP Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Required,Not Known,Not Known,Not Known
+Near Miss,Material Handling,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,Not Known,SOP Available,Not Known,SOP Not Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Occupational Illness,Process,Unsafe Act,Not a Working Place,M/C Working,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Near Miss,Working at Height,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Not Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Dashing/Collision,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,Not Known,SOP Followed
+Near Miss,Process Incidents,Behaviour,Unsafe Act,Group Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Injury,Derailment,Process,Unsafe Act by Other,Group Working,M/C Working,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Injury,Process Incidents,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,Not Known,Not Known,SOP Not Adequate,Not Known
+Injury,Occupational Illness,Process,Unsafe Act by Other,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,Not Known
+Near Miss,Road Incident,Process,Unsafe Act,Single Working,Not Applicable,SOP Required,SOP Not Available,Not Known,Not Known
+Near Miss,Energy Isolation,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Condition,Group Working,M/C Working,SOP Not Required,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Material Handling,Process,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,SOP Not Followed
+Near Miss,Road Incident,Process,Unsafe Act by Other,Single Working,Not Applicable,Not Known,Not Known,Not Known,SOP Not Followed
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,Not Known,SOP Available,Not Known,Not Known
+Injury,Lifting Tool Tackles,Process,Unsafe Condition,Single Working,M/C Working,Not Known,Not Known,Not Known,SOP Not Followed
+Near Miss,Material Handling,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Required,Not Known,Not Known,SOP Followed
+Property Damage,Material Handling,Process,Unsafe Act,Single Working,M/C Idle,Not Known,Not Known,SOP Adequate,Not Known
+Property Damage,Derailment,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Not Required,SOP Available,Not Known,Not Known
+Property Damage,Occupational Illness,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Property Damage,Occupational Illness,Process,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,Not Known
+Near Miss,Derailment,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Required,Not Known,SOP Adequate,Not Known
+Injury,Road Incident,Process,Unsafe Condition,Group Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Working at Height,Process,Unsafe Act,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Road Incident,Behaviour,Unsafe Act by Other,Single Working,M/C Idle,Not Known,SOP Not Available,SOP Adequate,SOP Not Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Condition,Group Working,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Near Miss,Derailment,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Injury,Structural Integrity,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,Not Known,SOP Not Available,Not Known,SOP Followed
+Near Miss,Road Incident,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,SOP Available,SOP Adequate,SOP Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Available,Not Known,Not Known
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,SOP Followed
+Property Damage,Occupational Illness,Process,Unsafe Act by Other,Single Working,M/C Idle,Not Known,Not Known,SOP Adequate,Not Known
+Near Miss,Process Incidents,Process,Unsafe Act by Other,Single Working,M/C Working,Not Known,SOP Not Available,SOP Adequate,SOP Not Followed
+Injury,Derailment,Behaviour,Unsafe Act by Other,Group Working,M/C Working,SOP Not Required,SOP Available,SOP Adequate,SOP Not Followed
+Property Damage,Energy Isolation,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Working at Height,Process,Unsafe Act by Other,Group Working,Not Applicable,Not Known,SOP Available,SOP Adequate,Not Known
+Property Damage,Occupational Illness,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Injury,Material Handling,Process,Unsafe Act,Not a Working Place,M/C Idle,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Property Damage,Dashing/Collision,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Condition,Single Working,M/C Working,Not Known,SOP Available,Not Known,SOP Not Followed
+Injury,Occupational Illness,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Dashing/Collision,Process,Unsafe Act,Group Working,M/C Idle,SOP Required,Not Known,SOP Adequate,Not Known
+Property Damage,Working at Height,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Working at Height,Process,Unsafe Act,Group Working,M/C Working,SOP Required,Not Known,SOP Adequate,Not Known
+Property Damage,Dashing/Collision,Process,Unsafe Act,Group Working,M/C Idle,SOP Not Required,Not Known,Not Known,Not Known
+Property Damage,Equipment Machinery Damage,Process,Unsafe Act,Single Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Injury,Working at Height,Process,Unsafe Condition,Group Working,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Slip/Trip/Fall,Process,Unsafe Act,Group Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Derailment,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,Not Known,Not Known,SOP Adequate,SOP Followed
+Near Miss,Dashing/Collision,Process,Unsafe Condition,Single Working,M/C Working,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Injury,Structural Integrity,Process,Unsafe Act by Other,Single Working,M/C Working,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Energy Isolation,Process,Unsafe Condition,Group Working,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Material Handling,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,Not Known,SOP Followed
+Near Miss,Working at Height,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act,Single Working,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Available,Not Known,SOP Followed
+Property Damage,Equipment Machinery Damage,Process,Unsafe Act,Not a Working Place,M/C Working,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Injury,Energy Isolation,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Near Miss,Dashing/Collision,Process,Unsafe Act,Group Working,Not Applicable,Not Known,SOP Available,Not Known,SOP Not Followed
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,Not Known,SOP Adequate,SOP Followed
+Injury,Material Handling,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,Not Known,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Lifting Tool Tackles,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Energy Isolation,Behaviour,Unsafe Condition,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Occupational Illness,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Property Damage,Process Incidents,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Required,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Act,Single Working,Not Applicable,SOP Required,Not Known,Not Known,Not Known
+Injury,Energy Isolation,Behaviour,Unsafe Act,Single Working,M/C Idle,Not Known,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Energy Isolation,Behaviour,Unsafe Act by Other,Single Working,M/C Working,Not Known,Not Known,Not Known,SOP Followed
+Injury,Road Incident,Process,Unsafe Act,Group Working,Not Applicable,SOP Required,Not Known,SOP Not Adequate,Not Known
+Property Damage,Dashing/Collision,Process,Unsafe Condition,Group Working,M/C Idle,SOP Not Required,SOP Not Available,Not Known,Not Known
+Property Damage,Slip/Trip/Fall,Process,Unsafe Condition,Group Working,Not Applicable,Not Known,Not Known,SOP Adequate,Not Known
+Injury,Derailment,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,Not Known
+Near Miss,Road Incident,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Derailment,Process,Unsafe Act,Not a Working Place,M/C Working,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Process Incidents,Process,Unsafe Act by Other,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Injury,Process Incidents,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Occupational Illness,Process,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Available,Not Known,SOP Followed
+Property Damage,Working at Height,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Dashing/Collision,Process,Unsafe Condition,Single Working,M/C Idle,SOP Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Structural Integrity,Process,Unsafe Act by Other,Group Working,M/C Working,SOP Required,SOP Available,SOP Adequate,Not Known
+Property Damage,Process Incidents,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Process Incidents,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Material Handling,Process,Unsafe Act,Group Working,Not Applicable,SOP Required,Not Known,SOP Not Adequate,Not Known
+Injury,Energy Isolation,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Energy Isolation,Process,Unsafe Act by Other,Single Working,M/C Idle,Not Known,SOP Not Available,Not Known,Not Known
+Near Miss,Material Handling,Behaviour,Unsafe Condition,Group Working,M/C Working,Not Known,Not Known,SOP Adequate,Not Known
+Property Damage,Energy Isolation,Process,Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Available,Not Known,SOP Not Followed
+Near Miss,Material Handling,Process,Unsafe Act by Other,Group Working,M/C Idle,SOP Required,Not Known,Not Known,Not Known
+Near Miss,Structural Integrity,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,SOP Required,SOP Not Available,Not Known,Not Known
+Near Miss,Process Incidents,Process,Unsafe Condition,Single Working,M/C Idle,Not Known,Not Known,Not Known,SOP Followed
+Property Damage,Road Incident,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Available,Not Known,Not Known
+Near Miss,Road Incident,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,SOP Available,Not Known,Not Known
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,SOP Required,Not Known,SOP Adequate,SOP Not Followed
+Injury,Structural Integrity,Process,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Near Miss,Dashing/Collision,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,Not Known,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Near Miss,Process Incidents,Behaviour,Unsafe Act,Group Working,Not Applicable,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Injury,Working at Height,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Available,Not Known,Not Known
+Near Miss,Working at Height,Behaviour,Unsafe Act,Single Working,M/C Idle,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Condition,Group Working,M/C Idle,Not Known,Not Known,Not Known,SOP Followed
+Property Damage,Working at Height,Process,Unsafe Act by Other,Single Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Dashing/Collision,Process,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Available,Not Known,SOP Not Followed
+Injury,Occupational Illness,Behaviour,Unsafe Act by Other,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Road Incident,Process,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Injury,Energy Isolation,Process,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,Not Known,SOP Available,Not Known,SOP Not Followed
+Injury,Working at Height,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Road Incident,Behaviour,Unsafe Act,Single Working,M/C Working,Not Known,SOP Not Available,Not Known,SOP Followed
+Near Miss,Dashing/Collision,Process,Unsafe Act by Other,Group Working,M/C Working,SOP Not Required,Not Known,Not Known,SOP Followed
+Injury,Material Handling,Process,Unsafe Act,Group Working,M/C Working,Not Known,SOP Available,SOP Not Adequate,Not Known
+Injury,Dashing/Collision,Process,Unsafe Act,Single Working,Not Applicable,SOP Not Required,SOP Not Available,Not Known,Not Known
+Injury,Structural Integrity,Process,Unsafe Condition,Not a Working Place,M/C Working,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Injury,Slip/Trip/Fall,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Property Damage,Process Incidents,Process,Unsafe Condition,Not a Working Place,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Working at Height,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Not Required,SOP Available,Not Known,Not Known
+Injury,Dashing/Collision,Process,Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Available,Not Known,SOP Not Followed
+Property Damage,Process Incidents,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,Not Known,Not Known,SOP Followed
+Near Miss,Occupational Illness,Process,Unsafe Condition,Group Working,Not Applicable,SOP Not Required,SOP Available,Not Known,SOP Followed
+Near Miss,Derailment,Process,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Not Required,Not Known,Not Known,SOP Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act by Other,Single Working,M/C Idle,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Road Incident,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Near Miss,Energy Isolation,Process,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Not Available,Not Known,SOP Followed
+Near Miss,Equipment Machinery Damage,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,Not Known,Not Known,Not Known,SOP Followed
+Near Miss,Derailment,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,SOP Required,Not Known,Not Known,SOP Not Followed
+Property Damage,Process Incidents,Process,Unsafe Condition,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,Not Known
+Injury,Occupational Illness,Process,Unsafe Act by Other,Single Working,M/C Working,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,Not Known,SOP Available,SOP Adequate,SOP Followed
+Injury,Material Handling,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Derailment,Process,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Not Required,Not Known,Not Known,SOP Followed
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Injury,Road Incident,Behaviour,Unsafe Act by Other,Single Working,M/C Idle,SOP Required,Not Known,SOP Adequate,SOP Followed
+Injury,Dashing/Collision,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,SOP Not Available,SOP Adequate,Not Known
+Near Miss,Lifting Tool Tackles,Process,Unsafe Act,Group Working,M/C Idle,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Near Miss,Occupational Illness,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Dashing/Collision,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Derailment,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Required,Not Known,SOP Not Adequate,Not Known
+Property Damage,Road Incident,Behaviour,Unsafe Act,Group Working,M/C Working,SOP Not Required,Not Known,SOP Adequate,Not Known
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Near Miss,Occupational Illness,Process,Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Derailment,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,SOP Not Available,Not Known,SOP Followed
+Near Miss,Material Handling,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Injury,Material Handling,Behaviour,Unsafe Condition,Single Working,M/C Idle,Not Known,Not Known,SOP Adequate,Not Known
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,SOP Available,Not Known,SOP Not Followed
+Property Damage,Working at Height,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Road Incident,Process,Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Structural Integrity,Behaviour,Unsafe Act by Other,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Material Handling,Process,Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Road Incident,Process,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Working at Height,Behaviour,Unsafe Act,Single Working,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Property Damage,Material Handling,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Process Incidents,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,Not Known
+Injury,Derailment,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,Not Known,Not Known,Not Known
+Property Damage,Energy Isolation,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Near Miss,Energy Isolation,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Dashing/Collision,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Available,SOP Adequate,Not Known
+Injury,Derailment,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Occupational Illness,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Not Required,Not Known,SOP Adequate,Not Known
+Injury,Occupational Illness,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Road Incident,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Required,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Derailment,Behaviour,Unsafe Act by Other,Group Working,M/C Working,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Injury,Working at Height,Process,Unsafe Act by Other,Group Working,M/C Working,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Structural Integrity,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Occupational Illness,Process,Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Available,Not Known,SOP Not Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act,Single Working,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Dashing/Collision,Process,Unsafe Act,Single Working,M/C Working,SOP Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Property Damage,Process Incidents,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Act,Group Working,M/C Idle,SOP Not Required,SOP Not Available,Not Known,Not Known
+Near Miss,Occupational Illness,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Near Miss,Occupational Illness,Process,Unsafe Act,Group Working,M/C Working,SOP Required,Not Known,SOP Not Adequate,Not Known
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Near Miss,Road Incident,Behaviour,Unsafe Act,Single Working,M/C Working,SOP Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Equipment Machinery Damage,Process,Unsafe Act,Not a Working Place,M/C Idle,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Working at Height,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Near Miss,Working at Height,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Process Incidents,Process,Unsafe Condition,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Working at Height,Process,Unsafe Act,Not a Working Place,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Injury,Working at Height,Process,Unsafe Act by Other,Group Working,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Property Damage,Material Handling,Process,Unsafe Act by Other,Group Working,M/C Working,SOP Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Working at Height,Process,Unsafe Act,Group Working,M/C Working,SOP Required,Not Known,SOP Adequate,SOP Followed
+Injury,Material Handling,Process,Unsafe Act,Single Working,M/C Working,SOP Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Derailment,Process,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,Not Known,Not Known,Not Known
+Near Miss,Energy Isolation,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Occupational Illness,Process,Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Near Miss,Derailment,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Followed
+Property Damage,Energy Isolation,Behaviour,Unsafe Act by Other,Single Working,M/C Working,Not Known,SOP Available,SOP Not Adequate,Not Known
+Injury,Dashing/Collision,Process,Unsafe Act,Group Working,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Process Incidents,Process,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Available,SOP Adequate,Not Known
+Near Miss,Material Handling,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,Not Known,SOP Not Adequate,Not Known
+Injury,Occupational Illness,Behaviour,Unsafe Condition,Group Working,Not Applicable,SOP Required,SOP Available,SOP Adequate,Not Known
+Property Damage,Lifting Tool Tackles,Process,Unsafe Condition,Single Working,M/C Idle,SOP Required,Not Known,SOP Adequate,SOP Not Followed
+Near Miss,Occupational Illness,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,SOP Available,Not Known,Not Known
+Near Miss,Occupational Illness,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Act,Single Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,Not Known
+Property Damage,Structural Integrity,Process,Unsafe Act,Group Working,M/C Working,SOP Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Working at Height,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Energy Isolation,Process,Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Energy Isolation,Process,Unsafe Act by Other,Group Working,Not Applicable,SOP Required,Not Known,Not Known,SOP Followed
+Injury,Working at Height,Behaviour,Unsafe Act,Single Working,Not Applicable,SOP Required,Not Known,Not Known,SOP Followed
+Injury,Road Incident,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,Not Known,Not Known,Not Known,SOP Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Working at Height,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Derailment,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Injury,Derailment,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Not Available,Not Known,Not Known
+Injury,Process Incidents,Process,Unsafe Act by Other,Single Working,M/C Working,Not Known,SOP Available,Not Known,SOP Followed
+Property Damage,Energy Isolation,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Occupational Illness,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,Not Known,Not Known,Not Known
+Property Damage,Process Incidents,Process,Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,Not Known,SOP Adequate,Not Known
+Injury,Material Handling,Process,Unsafe Condition,Not a Working Place,M/C Idle,Not Known,Not Known,Not Known,Not Known
+Near Miss,Lifting Tool Tackles,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,Not Known,Not Known,SOP Not Adequate,Not Known
+Injury,Equipment Machinery Damage,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Near Miss,Derailment,Process,Unsafe Act,Group Working,M/C Working,SOP Required,Not Known,Not Known,SOP Not Followed
+Property Damage,Slip/Trip/Fall,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Required,SOP Available,Not Known,SOP Followed
+Property Damage,Material Handling,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Structural Integrity,Process,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Required,SOP Available,SOP Not Adequate,SOP Followed
+Near Miss,Road Incident,Process,Unsafe Condition,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Energy Isolation,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Process Incidents,Process,Unsafe Act by Other,Single Working,M/C Idle,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Property Damage,Lifting Tool Tackles,Process,Unsafe Act,Single Working,M/C Working,SOP Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Near Miss,Material Handling,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Available,Not Known,SOP Not Followed
+Injury,Process Incidents,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Available,Not Known,Not Known
+Property Damage,Process Incidents,Behaviour,Unsafe Condition,Group Working,M/C Idle,SOP Required,Not Known,SOP Not Adequate,Not Known
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Near Miss,Structural Integrity,Behaviour,Unsafe Condition,Single Working,M/C Idle,Not Known,SOP Available,SOP Adequate,Not Known
+Property Damage,Occupational Illness,Process,Unsafe Act,Group Working,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Lifting Tool Tackles,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Required,Not Known,SOP Not Adequate,SOP Followed
+Injury,Process Incidents,Process,Unsafe Act,Single Working,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Road Incident,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Required,SOP Available,SOP Adequate,Not Known
+Property Damage,Road Incident,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Property Damage,Working at Height,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,Not Known,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Material Handling,Process,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,Not Known,Not Known
+Injury,Derailment,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,SOP Not Available,SOP Adequate,Not Known
+Near Miss,Process Incidents,Behaviour,Unsafe Act,Group Working,Not Applicable,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Material Handling,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Slip/Trip/Fall,Behaviour,Unsafe Condition,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Injury,Material Handling,Process,Unsafe Act,Not a Working Place,M/C Idle,Not Known,Not Known,Not Known,Not Known
+Near Miss,Dashing/Collision,Process,Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Available,Not Known,SOP Followed
+Injury,Energy Isolation,Process,Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,Not Known,Not Known,SOP Followed
+Near Miss,Derailment,Process,Unsafe Act,Not a Working Place,Not Applicable,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Occupational Illness,Behaviour,Unsafe Act,Not a Working Place,M/C Working,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Injury,Dashing/Collision,Behaviour,Unsafe Act,Single Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Material Handling,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Required,SOP Available,Not Known,SOP Not Followed
+Near Miss,Process Incidents,Process,Unsafe Act,Single Working,Not Applicable,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Required,Not Known,Not Known,SOP Followed
+Property Damage,Derailment,Process,Unsafe Act by Other,Single Working,Not Applicable,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Property Damage,Working at Height,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Near Miss,Derailment,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Material Handling,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,SOP Required,Not Known,SOP Adequate,Not Known
+Injury,Process Incidents,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Occupational Illness,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Required,SOP Available,Not Known,Not Known
+Near Miss,Slip/Trip/Fall,Process,Unsafe Act by Other,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,SOP Not Followed
+Near Miss,Process Incidents,Behaviour,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Near Miss,Lifting Tool Tackles,Process,Unsafe Condition,Single Working,M/C Working,SOP Required,Not Known,SOP Adequate,Not Known
+Injury,Derailment,Process,Unsafe Act,Group Working,M/C Idle,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Derailment,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,Not Known,Not Known,SOP Adequate,SOP Followed
+Injury,Working at Height,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,Not Known,Not Known,SOP Followed
+Injury,Process Incidents,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,Not Known,SOP Available,Not Known,Not Known
+Injury,Working at Height,Process,Unsafe Condition,Group Working,Not Applicable,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Near Miss,Road Incident,Process,Unsafe Act by Other,Single Working,Not Applicable,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act by Other,Group Working,M/C Working,SOP Required,SOP Available,Not Known,Not Known
+Near Miss,Structural Integrity,Process,Unsafe Act,Single Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,Not Known
+Property Damage,Occupational Illness,Process,Unsafe Act,Single Working,Not Applicable,Not Known,Not Known,SOP Adequate,SOP Followed
+Property Damage,Occupational Illness,Process,Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Process Incidents,Behaviour,Unsafe Act,Group Working,M/C Working,SOP Required,Not Known,Not Known,SOP Followed
+Property Damage,Material Handling,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Working at Height,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,SOP Adequate,SOP Followed
+Near Miss,Working at Height,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Material Handling,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Not Required,Not Known,SOP Adequate,SOP Not Followed
+Injury,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Available,Not Known,Not Known
+Near Miss,Structural Integrity,Process,Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Injury,Energy Isolation,Process,Unsafe Act,Group Working,M/C Working,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Derailment,Process,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Act by Other,Group Working,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Property Damage,Energy Isolation,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,Not Known,SOP Not Available,Not Known,Not Known
+Injury,Process Incidents,Process,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Near Miss,Derailment,Process,Unsafe Condition,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Near Miss,Structural Integrity,Process,Unsafe Act by Other,Group Working,Not Applicable,Not Known,SOP Available,Not Known,Not Known
+Near Miss,Road Incident,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Injury,Derailment,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,Not Known,Not Known,Not Known,SOP Followed
+Property Damage,Dashing/Collision,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,SOP Required,SOP Available,Not Known,Not Known
+Near Miss,Working at Height,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Process Incidents,Process,Unsafe Act by Other,Not a Working Place,M/C Idle,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Required,Not Known,Not Known,Not Known
+Property Damage,Structural Integrity,Process,Unsafe Act by Other,Single Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,Not Known
+Property Damage,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Required,SOP Available,Not Known,SOP Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act,Group Working,M/C Idle,SOP Required,Not Known,Not Known,SOP Not Followed
+Injury,Derailment,Process,Unsafe Act,Not a Working Place,Not Applicable,Not Known,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Process Incidents,Process,Unsafe Act,Not a Working Place,M/C Working,SOP Required,Not Known,SOP Adequate,SOP Not Followed
+Injury,Energy Isolation,Process,Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Not Available,Not Known,SOP Followed
+Property Damage,Structural Integrity,Behaviour,Unsafe Act,Single Working,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Near Miss,Road Incident,Process,Unsafe Act by Other,Single Working,M/C Idle,Not Known,SOP Available,SOP Adequate,Not Known
+Injury,Derailment,Behaviour,Unsafe Act,Group Working,Not Applicable,Not Known,Not Known,SOP Adequate,SOP Followed
+Near Miss,Equipment Machinery Damage,Process,Unsafe Act,Group Working,Not Applicable,Not Known,Not Known,SOP Adequate,Not Known
+Near Miss,Energy Isolation,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Injury,Road Incident,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,Not Known,SOP Available,Not Known,Not Known
+Near Miss,Lifting Tool Tackles,Behaviour,Unsafe Act,Single Working,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Followed
+Injury,Working at Height,Process,Unsafe Condition,Single Working,M/C Working,Not Known,Not Known,Not Known,Not Known
+Near Miss,Road Incident,Process,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Lifting Tool Tackles,Process,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Required,Not Known,SOP Not Adequate,SOP Not Followed
+Near Miss,Equipment Machinery Damage,Process,Unsafe Act,Not a Working Place,Not Applicable,SOP Required,SOP Available,SOP Adequate,Not Known
+Near Miss,Derailment,Process,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Energy Isolation,Process,Unsafe Act by Other,Group Working,M/C Idle,SOP Not Required,SOP Not Available,Not Known,Not Known
+Near Miss,Energy Isolation,Process,Unsafe Act,Single Working,M/C Idle,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act,Not a Working Place,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Energy Isolation,Behaviour,Unsafe Act,Single Working,M/C Idle,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Injury,Occupational Illness,Behaviour,Unsafe Condition,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,SOP Not Followed
+Injury,Dashing/Collision,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,SOP Followed
+Near Miss,Derailment,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Injury,Derailment,Process,Unsafe Act,Single Working,Not Applicable,Not Known,Not Known,Not Known,Not Known
+Injury,Dashing/Collision,Process,Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Not Followed
+Injury,Process Incidents,Process,Unsafe Act by Other,Single Working,M/C Working,SOP Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Act,Group Working,M/C Working,Not Known,SOP Available,Not Known,SOP Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act,Single Working,M/C Working,SOP Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Property Damage,Energy Isolation,Process,Unsafe Condition,Single Working,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,Not Known,Not Known
+Injury,Working at Height,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Required,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Energy Isolation,Process,Unsafe Act by Other,Single Working,M/C Working,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Near Miss,Material Handling,Process,Unsafe Act,Not a Working Place,M/C Working,SOP Required,Not Known,Not Known,Not Known
+Property Damage,Working at Height,Behaviour,Unsafe Act,Group Working,M/C Working,Not Known,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Near Miss,Energy Isolation,Behaviour,Unsafe Condition,Single Working,M/C Idle,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Lifting Tool Tackles,Process,Unsafe Act,Not a Working Place,Not Applicable,Not Known,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Material Handling,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Required,Not Known,Not Known,SOP Followed
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Act,Single Working,Not Applicable,SOP Required,SOP Available,Not Known,Not Known
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Act by Other,Single Working,M/C Working,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Lifting Tool Tackles,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,SOP Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Act by Other,Single Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Not Required,Not Known,SOP Adequate,Not Known
+Injury,Material Handling,Process,Unsafe Condition,Single Working,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Not Adequate,SOP Followed
+Near Miss,Process Incidents,Process,Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Followed
+Property Damage,Working at Height,Process,Unsafe Act,Group Working,M/C Idle,SOP Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Working at Height,Process,Unsafe Condition,Single Working,M/C Working,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Road Incident,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Road Incident,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Near Miss,Derailment,Behaviour,Unsafe Act,Group Working,M/C Idle,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Dashing/Collision,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Process Incidents,Process,Unsafe Act,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Adequate,Not Known
+Near Miss,Material Handling,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,SOP Available,SOP Not Adequate,SOP Followed
+Property Damage,Dashing/Collision,Process,Unsafe Act,Not a Working Place,Not Applicable,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Required,SOP Available,SOP Adequate,Not Known
+Property Damage,Derailment,Behaviour,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Equipment Machinery Damage,Process,Unsafe Act by Other,Not a Working Place,M/C Idle,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Road Incident,Process,Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Injury,Working at Height,Process,Unsafe Act,Single Working,M/C Idle,SOP Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Dashing/Collision,Process,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Property Damage,Lifting Tool Tackles,Process,Unsafe Condition,Group Working,M/C Working,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Occupational Illness,Process,Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Not Available,SOP Adequate,SOP Not Followed
+Injury,Working at Height,Behaviour,Unsafe Act,Not a Working Place,M/C Working,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Near Miss,Structural Integrity,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Near Miss,Structural Integrity,Process,Unsafe Act,Group Working,Not Applicable,Not Known,SOP Not Available,Not Known,Not Known
+Property Damage,Structural Integrity,Behaviour,Unsafe Condition,Group Working,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Property Damage,Process Incidents,Behaviour,Unsafe Act by Other,Group Working,M/C Working,SOP Not Required,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Material Handling,Process,Unsafe Act,Single Working,M/C Idle,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Injury,Road Incident,Process,Unsafe Act by Other,Group Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Property Damage,Process Incidents,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Dashing/Collision,Process,Unsafe Act by Other,Group Working,Not Applicable,Not Known,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Structural Integrity,Process,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,SOP Not Available,Not Known,Not Known
+Injury,Occupational Illness,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Injury,Material Handling,Process,Unsafe Condition,Single Working,M/C Working,SOP Required,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Dashing/Collision,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Adequate,SOP Followed
+Near Miss,Structural Integrity,Behaviour,Unsafe Act,Group Working,M/C Working,Not Known,Not Known,SOP Not Adequate,Not Known
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Available,Not Known,SOP Followed
+Near Miss,Process Incidents,Process,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Equipment Machinery Damage,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Required,SOP Available,Not Known,Not Known
+Property Damage,Working at Height,Process,Unsafe Act by Other,Group Working,M/C Working,Not Known,SOP Not Available,Not Known,Not Known
+Property Damage,Slip/Trip/Fall,Process,Unsafe Act,Single Working,M/C Idle,SOP Required,Not Known,SOP Not Adequate,Not Known
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Condition,Group Working,M/C Working,Not Known,SOP Available,Not Known,SOP Not Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Act,Single Working,M/C Working,Not Known,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Occupational Illness,Behaviour,Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Near Miss,Dashing/Collision,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Injury,Material Handling,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Not Required,Not Known,Not Known,Not Known
+Near Miss,Lifting Tool Tackles,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Property Damage,Energy Isolation,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,Not Known,SOP Available,Not Known,SOP Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Near Miss,Working at Height,Process,Unsafe Condition,Group Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Near Miss,Lifting Tool Tackles,Process,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Property Damage,Occupational Illness,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Act by Other,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Injury,Road Incident,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,Not Known,SOP Available,SOP Adequate,SOP Followed
+Injury,Occupational Illness,Process,Unsafe Act,Single Working,M/C Working,SOP Not Required,Not Known,SOP Adequate,Not Known
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act,Not a Working Place,M/C Working,Not Known,Not Known,SOP Adequate,SOP Followed
+Near Miss,Material Handling,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Required,SOP Not Available,Not Known,Not Known
+Near Miss,Structural Integrity,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,Not Known,Not Known
+Injury,Derailment,Process,Unsafe Act,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Lifting Tool Tackles,Process,Unsafe Act,Group Working,M/C Working,Not Known,Not Known,SOP Not Adequate,Not Known
+Property Damage,Energy Isolation,Behaviour,Unsafe Act,Single Working,M/C Idle,Not Known,SOP Not Available,Not Known,Not Known
+Injury,Material Handling,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,Not Known,Not Known,SOP Not Adequate,Not Known
+Injury,Equipment Machinery Damage,Process,Unsafe Condition,Group Working,M/C Idle,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Injury,Energy Isolation,Process,Unsafe Act by Other,Group Working,Not Applicable,Not Known,SOP Available,SOP Adequate,Not Known
+Property Damage,Working at Height,Process,Unsafe Condition,Group Working,M/C Idle,SOP Required,Not Known,SOP Adequate,Not Known
+Property Damage,Working at Height,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Process Incidents,Process,Unsafe Act,Single Working,M/C Idle,SOP Not Required,SOP Available,SOP Not Adequate,SOP Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act by Other,Single Working,M/C Idle,Not Known,Not Known,SOP Adequate,SOP Followed
+Injury,Process Incidents,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Available,SOP Adequate,SOP Not Followed
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Act,Not a Working Place,M/C Working,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Property Damage,Working at Height,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Derailment,Behaviour,Unsafe Act by Other,Group Working,M/C Working,Not Known,Not Known,Not Known,Not Known
+Property Damage,Dashing/Collision,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Property Damage,Process Incidents,Process,Unsafe Act by Other,Group Working,M/C Working,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Road Incident,Process,Unsafe Condition,Group Working,M/C Idle,SOP Required,Not Known,SOP Adequate,Not Known
+Property Damage,Material Handling,Process,Unsafe Condition,Group Working,M/C Idle,Not Known,Not Known,Not Known,Not Known
+Property Damage,Process Incidents,Process,Unsafe Condition,Single Working,M/C Idle,SOP Not Required,Not Known,Not Known,Not Known
+Injury,Structural Integrity,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,SOP Required,Not Known,SOP Adequate,Not Known
+Near Miss,Derailment,Process,Unsafe Condition,Group Working,Not Applicable,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Near Miss,Slip/Trip/Fall,Process,Unsafe Act by Other,Single Working,M/C Working,SOP Required,Not Known,Not Known,SOP Not Followed
+Injury,Derailment,Process,Unsafe Condition,Group Working,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Near Miss,Dashing/Collision,Process,Unsafe Act,Not a Working Place,M/C Idle,SOP Not Required,Not Known,Not Known,Not Known
+Property Damage,Process Incidents,Process,Unsafe Act by Other,Group Working,M/C Idle,SOP Required,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Dashing/Collision,Process,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Injury,Working at Height,Process,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Near Miss,Equipment Machinery Damage,Process,Unsafe Act,Not a Working Place,M/C Idle,SOP Required,SOP Available,Not Known,Not Known
+Property Damage,Structural Integrity,Behaviour,Unsafe Act,Single Working,Not Applicable,SOP Required,SOP Available,Not Known,SOP Followed
+Property Damage,Material Handling,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Process Incidents,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,SOP Not Available,Not Known,Not Known
+Property Damage,Derailment,Process,Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Available,Not Known,Not Known
+Injury,Working at Height,Process,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Derailment,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Derailment,Process,Unsafe Act,Single Working,M/C Idle,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Occupational Illness,Process,Unsafe Act by Other,Single Working,M/C Idle,SOP Required,Not Known,SOP Adequate,Not Known
+Near Miss,Structural Integrity,Behaviour,Unsafe Act,Group Working,M/C Idle,SOP Not Required,SOP Available,Not Known,SOP Followed
+Property Damage,Material Handling,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,Not Known,Not Known,Not Known
+Injury,Process Incidents,Behaviour,Unsafe Act,Group Working,M/C Idle,Not Known,Not Known,SOP Adequate,Not Known
+Property Damage,Occupational Illness,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Required,SOP Available,Not Known,SOP Not Followed
+Injury,Energy Isolation,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Dashing/Collision,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,Not Known,Not Known,SOP Followed
+Property Damage,Derailment,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Adequate,Not Known
+Property Damage,Occupational Illness,Behaviour,Unsafe Condition,Single Working,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Property Damage,Derailment,Behaviour,Unsafe Act,Group Working,M/C Idle,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Property Damage,Process Incidents,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Energy Isolation,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Energy Isolation,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Available,SOP Adequate,Not Known
+Injury,Structural Integrity,Process,Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Available,Not Known,SOP Followed
+Property Damage,Occupational Illness,Behaviour,Unsafe Condition,Group Working,Not Applicable,SOP Required,SOP Available,Not Known,SOP Not Followed
+Near Miss,Occupational Illness,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Working at Height,Process,Unsafe Act,Group Working,M/C Working,SOP Required,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act,Not a Working Place,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Near Miss,Slip/Trip/Fall,Process,Unsafe Act,Group Working,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Near Miss,Process Incidents,Behaviour,Unsafe Act by Other,Single Working,M/C Working,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Near Miss,Working at Height,Process,Unsafe Condition,Single Working,M/C Working,SOP Required,Not Known,Not Known,SOP Followed
+Near Miss,Working at Height,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Available,Not Known,SOP Followed
+Property Damage,Derailment,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Property Damage,Dashing/Collision,Behaviour,Unsafe Condition,Single Working,M/C Idle,SOP Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Property Damage,Equipment Machinery Damage,Process,Unsafe Act,Not a Working Place,Not Applicable,Not Known,SOP Available,SOP Not Adequate,SOP Followed
+Near Miss,Material Handling,Behaviour,Unsafe Act by Other,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Energy Isolation,Behaviour,Unsafe Act by Other,Single Working,M/C Idle,Not Known,SOP Not Available,Not Known,SOP Followed
+Injury,Occupational Illness,Process,Unsafe Act by Other,Not a Working Place,M/C Working,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Road Incident,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Road Incident,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Near Miss,Working at Height,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Material Handling,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Adequate,Not Known
+Property Damage,Process Incidents,Process,Unsafe Condition,Group Working,M/C Idle,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Near Miss,Derailment,Process,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Property Damage,Working at Height,Behaviour,Unsafe Condition,Group Working,M/C Working,Not Known,SOP Available,SOP Adequate,Not Known
+Near Miss,Structural Integrity,Process,Unsafe Act,Group Working,M/C Idle,SOP Required,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Dashing/Collision,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,SOP Required,SOP Available,Not Known,SOP Followed
+Injury,Occupational Illness,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Property Damage,Material Handling,Behaviour,Unsafe Act,Group Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Injury,Derailment,Behaviour,Unsafe Condition,Group Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Condition,Group Working,M/C Working,SOP Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Structural Integrity,Process,Unsafe Act,Not a Working Place,M/C Working,Not Known,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Energy Isolation,Process,Unsafe Act,Single Working,M/C Idle,SOP Required,Not Known,SOP Not Adequate,SOP Not Followed
+Near Miss,Occupational Illness,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Slip/Trip/Fall,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Near Miss,Road Incident,Behaviour,Unsafe Condition,Single Working,M/C Working,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Injury,Energy Isolation,Process,Unsafe Act,Not a Working Place,Not Applicable,SOP Required,SOP Available,Not Known,Not Known
+Property Damage,Lifting Tool Tackles,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Occupational Illness,Behaviour,Unsafe Act,Single Working,M/C Idle,SOP Required,Not Known,SOP Adequate,SOP Not Followed
+Near Miss,Occupational Illness,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Working at Height,Process,Unsafe Act,Single Working,M/C Idle,SOP Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Dashing/Collision,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,SOP Available,SOP Not Adequate,SOP Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Road Incident,Process,Unsafe Act,Group Working,M/C Idle,SOP Required,Not Known,SOP Adequate,Not Known
+Injury,Working at Height,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Derailment,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Property Damage,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Required,Not Known,Not Known,SOP Followed
+Property Damage,Derailment,Process,Unsafe Act by Other,Not a Working Place,M/C Idle,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Material Handling,Process,Unsafe Act,Single Working,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Process Incidents,Behaviour,Unsafe Act,Single Working,M/C Idle,SOP Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Property Damage,Material Handling,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,Not Known
+Injury,Working at Height,Process,Unsafe Condition,Group Working,M/C Working,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Injury,Working at Height,Process,Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Near Miss,Road Incident,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Road Incident,Behaviour,Unsafe Condition,Single Working,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,Not Known
+Near Miss,Road Incident,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,Not Known,SOP Available,SOP Adequate,SOP Followed
+Injury,Process Incidents,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Required,SOP Available,Not Known,SOP Not Followed
+Near Miss,Equipment Machinery Damage,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Required,Not Known,Not Known,Not Known
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Not Available,Not Known,Not Known
+Near Miss,Road Incident,Process,Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,Not Known,SOP Adequate,SOP Not Followed
+Injury,Material Handling,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,SOP Not Available,Not Known,Not Known
+Property Damage,Energy Isolation,Process,Unsafe Act by Other,Group Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Injury,Structural Integrity,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Not Adequate,Not Known
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Near Miss,Structural Integrity,Process,Unsafe Condition,Single Working,Not Applicable,SOP Required,Not Known,SOP Adequate,Not Known
+Injury,Structural Integrity,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Injury,Slip/Trip/Fall,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,Not Known,Not Known,Not Known,Not Known
+Near Miss,Structural Integrity,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Adequate,SOP Followed
+Injury,Occupational Illness,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Near Miss,Process Incidents,Process,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Injury,Structural Integrity,Process,Unsafe Act by Other,Group Working,M/C Working,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,Not Known,Not Known,SOP Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,Not Known,Not Known,Not Known,SOP Followed
+Near Miss,Occupational Illness,Process,Unsafe Act,Single Working,M/C Working,Not Known,SOP Available,Not Known,SOP Followed
+Property Damage,Structural Integrity,Process,Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,Not Known,Not Known,SOP Not Followed
+Property Damage,Process Incidents,Behaviour,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Slip/Trip/Fall,Process,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,Not Known
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Dashing/Collision,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,Not Known,Not Known,SOP Not Followed
+Property Damage,Material Handling,Process,Unsafe Act,Group Working,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Injury,Occupational Illness,Process,Unsafe Condition,Single Working,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Energy Isolation,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Process Incidents,Behaviour,Unsafe Condition,Group Working,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Occupational Illness,Behaviour,Unsafe Act,Group Working,M/C Working,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Injury,Process Incidents,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Structural Integrity,Process,Unsafe Act by Other,Single Working,M/C Idle,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Material Handling,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Lifting Tool Tackles,Process,Unsafe Act,Not a Working Place,Not Applicable,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Property Damage,Dashing/Collision,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,SOP Not Required,Not Known,Not Known,SOP Followed
+Property Damage,Process Incidents,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Working,SOP Not Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Energy Isolation,Process,Unsafe Act by Other,Single Working,M/C Idle,Not Known,Not Known,Not Known,SOP Not Followed
+Injury,Working at Height,Process,Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Available,SOP Adequate,SOP Followed
+Injury,Road Incident,Behaviour,Unsafe Act by Other,Group Working,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Working at Height,Process,Unsafe Act,Group Working,Not Applicable,Not Known,SOP Available,SOP Not Adequate,SOP Followed
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Condition,Group Working,Not Applicable,SOP Required,Not Known,SOP Not Adequate,Not Known
+Near Miss,Working at Height,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,Not Known,Not Known,SOP Not Adequate,Not Known
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Condition,Group Working,M/C Working,Not Known,SOP Not Available,Not Known,Not Known
+Near Miss,Structural Integrity,Process,Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Injury,Road Incident,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Not Required,Not Known,SOP Not Adequate,SOP Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Condition,Single Working,M/C Idle,SOP Required,SOP Not Available,SOP Adequate,SOP Followed
+Near Miss,Lifting Tool Tackles,Behaviour,Unsafe Act,Not a Working Place,M/C Working,SOP Required,SOP Available,Not Known,Not Known
+Property Damage,Road Incident,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Working,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Property Damage,Structural Integrity,Process,Unsafe Act by Other,Group Working,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Occupational Illness,Process,Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,Not Known
+Near Miss,Material Handling,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Injury,Occupational Illness,Behaviour,Unsafe Act,Group Working,Not Applicable,SOP Not Required,SOP Available,Not Known,SOP Followed
+Property Damage,Dashing/Collision,Process,Unsafe Act by Other,Single Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,Not Known
+Injury,Occupational Illness,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Not Available,SOP Adequate,Not Known
+Near Miss,Working at Height,Behaviour,Unsafe Act by Other,Single Working,M/C Idle,SOP Not Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Injury,Lifting Tool Tackles,Process,Unsafe Act,Group Working,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,SOP Followed
+Injury,Material Handling,Process,Unsafe Condition,Not a Working Place,M/C Working,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Property Damage,Road Incident,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Property Damage,Equipment Machinery Damage,Process,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Material Handling,Behaviour,Unsafe Condition,Group Working,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Property Damage,Process Incidents,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Injury,Process Incidents,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Road Incident,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Material Handling,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Energy Isolation,Behaviour,Unsafe Condition,Single Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Followed
+Near Miss,Material Handling,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Required,SOP Available,Not Known,SOP Not Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Required,SOP Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Material Handling,Behaviour,Unsafe Act,Group Working,M/C Working,Not Known,SOP Available,SOP Not Adequate,SOP Followed
+Injury,Slip/Trip/Fall,Behaviour,Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,SOP Not Followed
+Near Miss,Derailment,Process,Unsafe Condition,Group Working,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Property Damage,Derailment,Behaviour,Unsafe Act,Single Working,M/C Working,SOP Not Required,SOP Available,SOP Adequate,SOP Not Followed
+Near Miss,Energy Isolation,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Injury,Occupational Illness,Process,Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Property Damage,Process Incidents,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Property Damage,Process Incidents,Process,Unsafe Act,Group Working,M/C Working,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Property Damage,Slip/Trip/Fall,Process,Unsafe Act,Single Working,Not Applicable,Not Known,SOP Not Available,Not Known,SOP Followed
+Near Miss,Material Handling,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Not Required,SOP Not Available,SOP Adequate,SOP Followed
+Injury,Road Incident,Behaviour,Unsafe Act,Single Working,Not Applicable,SOP Required,Not Known,Not Known,SOP Not Followed
+Injury,Slip/Trip/Fall,Process,Unsafe Act,Group Working,M/C Working,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Near Miss,Working at Height,Behaviour,Unsafe Act,Single Working,M/C Idle,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Injury,Occupational Illness,Process,Unsafe Act,Group Working,Not Applicable,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Lifting Tool Tackles,Process,Unsafe Act,Single Working,M/C Working,SOP Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Injury,Dashing/Collision,Process,Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Injury,Dashing/Collision,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Derailment,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,SOP Available,Not Known,Not Known
+Property Damage,Derailment,Behaviour,Unsafe Act,Single Working,Not Applicable,Not Known,SOP Available,Not Known,SOP Followed
+Property Damage,Structural Integrity,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,SOP Required,SOP Not Available,SOP Not Adequate,SOP Followed
+Near Miss,Structural Integrity,Process,Unsafe Act,Group Working,M/C Idle,SOP Not Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Structural Integrity,Process,Unsafe Condition,Single Working,M/C Idle,SOP Required,SOP Available,SOP Adequate,SOP Followed
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Not Followed
+Near Miss,Road Incident,Behaviour,Unsafe Act by Other,Group Working,M/C Idle,SOP Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Material Handling,Process,Unsafe Act by Other,Single Working,M/C Idle,SOP Not Required,SOP Not Available,SOP Adequate,SOP Not Followed
+Property Damage,Dashing/Collision,Process,Unsafe Act by Other,Group Working,Not Applicable,SOP Required,SOP Available,Not Known,SOP Followed
+Property Damage,Energy Isolation,Process,Unsafe Act,Single Working,M/C Idle,Not Known,SOP Available,Not Known,Not Known
+Injury,Occupational Illness,Behaviour,Unsafe Act,Group Working,M/C Working,Not Known,Not Known,Not Known,SOP Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act,Single Working,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Followed
+Injury,Road Incident,Behaviour,Unsafe Act,Single Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Followed
+Property Damage,Structural Integrity,Behaviour,Unsafe Condition,Single Working,M/C Working,Not Known,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Process Incidents,Behaviour,Unsafe Act,Single Working,Not Applicable,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Property Damage,Structural Integrity,Process,Unsafe Act,Single Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Injury,Structural Integrity,Behaviour,Unsafe Act,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Adequate,Not Known
+Injury,Structural Integrity,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Not Available,Not Known,Not Known
+Injury,Material Handling,Process,Unsafe Act & Unsafe Condition,Group Working,M/C Working,SOP Not Required,SOP Available,Not Known,SOP Not Followed
+Property Damage,Dashing/Collision,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,SOP Required,SOP Available,Not Known,SOP Not Followed
+Injury,Process Incidents,Behaviour,Unsafe Act by Other,Single Working,Not Applicable,SOP Required,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Slip/Trip/Fall,Behaviour,Unsafe Act,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Not Adequate,Not Known
+Property Damage,Working at Height,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Required,Not Known,SOP Not Adequate,Not Known
+Injury,Lifting Tool Tackles,Behaviour,Unsafe Act by Other,Single Working,M/C Working,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Injury,Material Handling,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Working,Not Known,SOP Available,SOP Adequate,SOP Followed
+Near Miss,Process Incidents,Process,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Energy Isolation,Behaviour,Unsafe Act,Single Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Injury,Energy Isolation,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Not Required,Not Known,Not Known,Not Known
+Injury,Slip/Trip/Fall,Process,Unsafe Act by Other,Single Working,M/C Working,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Property Damage,Dashing/Collision,Process,Unsafe Act by Other,Group Working,M/C Idle,Not Known,SOP Not Available,SOP Adequate,SOP Followed
+Injury,Process Incidents,Behaviour,Unsafe Act,Single Working,Not Applicable,SOP Required,SOP Available,SOP Adequate,Not Known
+Injury,Road Incident,Process,Unsafe Condition,Not a Working Place,M/C Idle,SOP Not Required,Not Known,SOP Not Adequate,SOP Not Followed
+Property Damage,Working at Height,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Not Required,SOP Not Available,Not Known,Not Known
+Property Damage,Derailment,Process,Unsafe Condition,Single Working,M/C Working,SOP Not Required,Not Known,SOP Adequate,SOP Followed
+Injury,Process Incidents,Behaviour,Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Available,SOP Adequate,SOP Followed
+Near Miss,Derailment,Process,Unsafe Act,Not a Working Place,Not Applicable,Not Known,SOP Not Available,Not Known,SOP Followed
+Property Damage,Working at Height,Behaviour,Unsafe Condition,Single Working,M/C Working,Not Known,Not Known,SOP Not Adequate,Not Known
+Near Miss,Slip/Trip/Fall,Behaviour,Unsafe Act,Not a Working Place,M/C Idle,SOP Required,SOP Available,SOP Adequate,Not Known
+Injury,Process Incidents,Process,Unsafe Act,Not a Working Place,M/C Working,Not Known,SOP Available,SOP Not Adequate,SOP Followed
+Injury,Material Handling,Process,Unsafe Act by Other,Not a Working Place,Not Applicable,Not Known,Not Known,SOP Adequate,SOP Not Followed
+Property Damage,Working at Height,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Available,SOP Adequate,Not Known
+Property Damage,Material Handling,Process,Unsafe Act,Single Working,M/C Idle,SOP Required,SOP Not Available,Not Known,Not Known
+Property Damage,Structural Integrity,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,Not Known,Not Known,SOP Not Adequate,Not Known
+Property Damage,Equipment Machinery Damage,Process,Unsafe Condition,Single Working,Not Applicable,SOP Required,SOP Available,SOP Adequate,SOP Not Followed
+Injury,Slip/Trip/Fall,Process,Unsafe Act,Group Working,M/C Idle,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Injury,Dashing/Collision,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Available,Not Known,SOP Followed
+Near Miss,Working at Height,Behaviour,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Not Required,SOP Not Available,Not Known,SOP Followed
+Property Damage,Equipment Machinery Damage,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Not Required,Not Known,Not Known,SOP Followed
+Near Miss,Dashing/Collision,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Not Required,SOP Available,Not Known,SOP Followed
+Injury,Process Incidents,Process,Unsafe Act,Group Working,Not Applicable,Not Known,SOP Available,SOP Adequate,Not Known
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Act,Group Working,M/C Idle,Not Known,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Lifting Tool Tackles,Behaviour,Unsafe Condition,Single Working,Not Applicable,SOP Required,Not Known,Not Known,SOP Not Followed
+Injury,Working at Height,Process,Unsafe Condition,Group Working,M/C Working,SOP Required,Not Known,Not Known,SOP Not Followed
+Property Damage,Slip/Trip/Fall,Process,Unsafe Act by Other,Group Working,M/C Working,Not Known,SOP Available,SOP Adequate,Not Known
+Near Miss,Working at Height,Behaviour,Unsafe Act by Other,Not a Working Place,M/C Working,SOP Required,Not Known,Not Known,SOP Not Followed
+Near Miss,Dashing/Collision,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Near Miss,Derailment,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Working,Not Known,Not Known,SOP Not Adequate,SOP Followed
+Injury,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Group Working,M/C Idle,SOP Not Required,Not Known,Not Known,Not Known
+Injury,Slip/Trip/Fall,Process,Unsafe Act,Single Working,M/C Idle,SOP Required,Not Known,SOP Not Adequate,SOP Followed
+Near Miss,Derailment,Behaviour,Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Available,SOP Adequate,Not Known
+Injury,Structural Integrity,Process,Unsafe Condition,Group Working,M/C Idle,Not Known,SOP Available,SOP Not Adequate,SOP Not Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act by Other,Not a Working Place,M/C Idle,SOP Not Required,SOP Not Available,SOP Adequate,Not Known
+Injury,Structural Integrity,Process,Unsafe Act,Single Working,M/C Working,SOP Not Required,SOP Not Available,SOP Adequate,SOP Followed
+Property Damage,Process Incidents,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Not Required,SOP Available,SOP Not Adequate,Not Known
+Property Damage,Equipment Machinery Damage,Behaviour,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Not Available,SOP Not Adequate,SOP Not Followed
+Property Damage,Derailment,Process,Unsafe Act by Other,Single Working,M/C Idle,SOP Required,Not Known,Not Known,Not Known
+Injury,Occupational Illness,Process,Unsafe Act,Single Working,M/C Working,Not Known,SOP Not Available,Not Known,SOP Not Followed
+Property Damage,Slip/Trip/Fall,Process,Unsafe Act & Unsafe Condition,Single Working,M/C Working,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Property Damage,Energy Isolation,Process,Unsafe Act,Single Working,M/C Idle,Not Known,SOP Available,SOP Adequate,Not Known
+Injury,Structural Integrity,Behaviour,Unsafe Act,Group Working,Not Applicable,Not Known,SOP Not Available,SOP Adequate,SOP Not Followed
+Near Miss,Equipment Machinery Damage,Process,Unsafe Condition,Group Working,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Followed
+Injury,Equipment Machinery Damage,Process,Unsafe Act & Unsafe Condition,Not a Working Place,Not Applicable,SOP Required,SOP Available,SOP Not Adequate,SOP Followed
+Injury,Working at Height,Process,Unsafe Act & Unsafe Condition,Group Working,Not Applicable,SOP Required,Not Known,SOP Adequate,SOP Followed
+Near Miss,Working at Height,Process,Unsafe Condition,Not a Working Place,M/C Working,Not Known,SOP Available,SOP Adequate,Not Known
+Injury,Equipment Machinery Damage,Process,Unsafe Act & Unsafe Condition,Single Working,Not Applicable,SOP Required,SOP Not Available,Not Known,SOP Not Followed
+Property Damage,Energy Isolation,Behaviour,Unsafe Act & Unsafe Condition,Not a Working Place,M/C Idle,Not Known,SOP Not Available,Not Known,Not Known
+Property Damage,Dashing/Collision,Process,Unsafe Act by Other,Group Working,M/C Idle,SOP Not Required,Not Known,SOP Not Adequate,Not Known
