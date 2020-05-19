@@ -1,0 +1,39 @@
+<html>
+<head>
+<title> FAQ Chatbot </title>
+<link rel='stylesheet' type='text/css' href='{{ url_for("static", filename="style.css") }}' />
+<script src="jquery.min.js">
+</script>
+<script>
+function update_conversation()
+{
+	query = document.getElementById("query").value;
+	console.log(query);
+	document.getElementById("query").value = "";
+	$(document).ready(function(){
+		$("#conversation").append("<b>"+query+"</b><br/>");
+	});
+	response = send_request(query);
+	console.log(response);
+}
+
+function send_request(query)
+{
+	$.ajax({url: "http://sahutkarsh.pythonanywhere.com/test", success: function(response){
+            return response;
+	}});	
+}
+</script>
+</head>
+<body>
+
+<h1>Visa FAQ Chatbot</h1>
+<h2>Enter your queries here</h2>
+
+<p id="conversation"></p>
+
+<input size="50" id="query"/>
+<input type="submit" value="Send" onClick="update_conversation()">
+
+</body>
+</html>

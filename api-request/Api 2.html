@@ -1,0 +1,11 @@
+<html>
+<head></head>
+<body>API</body>
+<script>
+var xhr = new XMLHttpRequest();
+/*xhr.open("GET","http://lanserver.investwellonline.com:3010/nav?scheme=FT%20-%20India%20Asset%20Allocation%20Fund%20Inflation%20Hedge%20(G)&start=2017-05-25", false);*/
+xhr.open("GET","http://lanserver.investwellonline.com:3010/scheme?token=birla", false);
+xhr.send();
+console.log(xhr.responseText);
+</script>
+</html>
