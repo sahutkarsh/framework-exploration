@@ -1,0 +1,2 @@
+model_checkpoint_path: "sarsa_CartPole-v0_weights.h5f"
+all_model_checkpoint_paths: "sarsa_CartPole-v0_weights.h5f"
